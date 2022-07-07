@@ -5,4 +5,4 @@ CRYPTO STAT это модуль для получения, обработки и
 Модуль является частью торгового терминала Talos Terminal который в данный момент находится в приватном репазитарии и будет открыт позже.
 модуль распространяется под лицензией GNU General Public License (GPL-3.0)
 
-Ознакомиться с документацией: https://docs.readthedocs.io/en/stable/tutorial/
+Ознакомиться с документацией: https://crypto-stat-docs.readthedocs.io/en/latest/index.html
