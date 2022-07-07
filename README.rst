@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Документация CRYPTO STAT
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+CRYPTO STAT это модуль для получения, обработки и сохранения данных с биржи Binance.
+Модуль является частью торгового терминала Talos Terminal который в данный момент находится в приватном репазитарии и будет открыт позже.
+модуль распространяется под лицензией GNU General Public License (GPL-3.0)
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Ознакомиться с документацией: https://docs.readthedocs.io/en/stable/tutorial/
