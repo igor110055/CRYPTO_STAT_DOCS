@@ -1,22 +1,27 @@
-Welcome to Lumache's documentation!
-===================================
+.. Talos Terminal documentation master file, created by
+   sphinx-quickstart on Tue Jul  5 12:37:55 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Документация CRYPTO STAT
+========================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+`CRYPTO STAT` это модуль для получения, обработки и сохранения данных с биржи Binance.
+Модуль является частью торгового терминала `Talos Terminal` который в данный момент находится в приватном репазитарии и будет открыт позже.
+модуль распространяется под лицензией GNU General Public License (GPL-3.0)
 
-.. note::
+Условия для работы кода модуля
+==============================
 
-   This project is under active development.
-
-Contents
---------
+* **Сторонние библиотеки**: :doc:`/pipmodules/index`
+* **Установка модуля**: :doc:`/install/index`
+* **Описание классов и методов**: :doc:`/classes/index`
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Введение:
+   :hidden:
 
-   usage
-   api
+   /pipmodules/index
+   /install/index
+   /classes/index
